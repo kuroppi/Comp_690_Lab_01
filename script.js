@@ -1,7 +1,7 @@
 /*
     Project: Lab 01: My First JavaScript Application
-    Date: 2/4/21
-    Author: Zak Ruvalcaba
+    Date: 2/4/23
+    Author: Bob Painter
 */
 
 // Declare the variable and collect a number from the user
